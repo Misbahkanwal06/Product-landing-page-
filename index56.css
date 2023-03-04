@@ -1,0 +1,50 @@
+*{
+    padding:o;
+    margin:0;
+  flex-wrap: wrap;  }
+
+        .nav{font-size:25px; margin:5px; display: flex; justify-content: space-between;
+padding: 15px 5%;}
+  .div{ font-size:20px; margin:10px; padding:13px 2.5%; display: flex; gap:60px; }
+  .main{ font-size:18px; margin-top:4px; margin-left:440px; display: flex;}
+  #enter{ display: flex; margin-top:20px; margin-left:520px;padding-left:12px;
+     padding-right:90px; padding-top:3px; padding-bottom:3px; font-size:13px;}
+  #get{  margin-top:2px; margin-left:580px; padding:5px 2%; font-size:15px; background-color:gold;}
+
+  .ship{ display: flex; gap:70px ; margin-left: 230px; margin-top:70px;  }
+   #para{ margin-left:358px;}
+  .ship .fa-sharp{ font-size:44.5px; color: darkorange;}
+  .ship .fast{ font-size:18px;}
+
+     .mis{ display: flex ; gap:70px; margin-left: 245px; margin-top:90px;  }
+     #para1{margin-left:355px;} 
+     .mis .fa-sharp{font-size:48px; color:darkorange;}
+     .mis .bah{ font-size:18px;} 
+     
+     .qual{ display: flex; gap:70px; margin-top:70px; margin-left:240px; }
+     #para3{margin-left: 360px;}
+     .qual .fa-sharp{ font-size: 48px; color:darkorange ;}
+     .qual .ass{font-size:18px;}
+
+     .main-div{display: flex; gap:2px; margin-top:90px; margin-left:130px;}
+
+    .main-div .contain{ 
+       margin-top:50px; margin-left:150px; }
+       .main-div .contain .sel{background-color: yellow;}
+     .main-div  .contain .dark{ background-color:slategray;}
+      .main-div .contain .light{margin-left: 40px ;margin-top: 5px;}
+
+      .main-div .div2{margin-top:50px;margin-left:150px;}
+      .main-div .div2 .dark2{background-color:slategray;}
+      .main-div .div2 .light2{margin-top:5px; margin-left:40px;} 
+      .main-div .div2 .sel2{background-color: yellow;}
+
+      .main-div .div3{margin-top:50px;margin-left:150px;}
+      .main-div .div3 .dark3{background-color:slategray;}
+      .main-div .div3 .light3{margin-top:5px; margin-left: 28px;} 
+      .main-div .div3 .sel3{background-color: yellow;}
+
+      .foot{ flex-wrap: wrap; background-color: gray; margin-top:105px; padding:20px; width:810px;
+        margin-left:150px;margin-right:180px; margin-bottom:50px; }
+    .foot .lef{display:flex; text-align-last:right; gap:10px;margin-left:600px;}
+    .foot .copy{ margin-left:550px;}
